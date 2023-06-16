@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abilash-assesment/static/css/main.ea5b94db.css",
+    "main.js": "/abilash-assesment/static/js/main.ae13a072.js",
+    "index.html": "/abilash-assesment/index.html",
+    "main.ea5b94db.css.map": "/abilash-assesment/static/css/main.ea5b94db.css.map",
+    "main.ae13a072.js.map": "/abilash-assesment/static/js/main.ae13a072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5b94db.css",
+    "static/js/main.ae13a072.js"
+  ]
+}
