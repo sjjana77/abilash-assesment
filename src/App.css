@@ -1,3 +1,58 @@
+.hidden{
+  display:none;
+}
+.ciao{
+  border: 1px solid #888888;
+  padding-bottom: 5px;
+}
+.deletebtn{
+  background-color:#141e30;
+  color: white;
+  left:50%;
+  height: 36px;
+  position: relative;
+}
+.writebtn{
+  background-color:#141e30;
+  color: white;
+  left:34%;
+  height: 36px;
+  position: relative;
+}
+.closebtn{
+  left: 140px;
+ position: relative;
+  top: -84px;
+  background-color: dimgrey;
+  color: whitesmoke;
+}
+.stepper label{
+  font-weight:bold;
+  margin: 70px;
+}
+.stepper-label{
+  border-bottom: 3px solid black;
+}
+.addbtn{
+  height: 36px;
+  position: relative;
+  background-color:#141e30;
+  color: white;
+}
+.cards{
+  font-family: cursive;
+  position: relative;
+  border: 1px solid #888888;
+  padding: 10px;
+  box-shadow: 5px 5px #888888;
+  left:50px;
+  width: 70%;
+}
+.seperate{
+  border-bottom: 1px solid #888888;
+  font-size: 20px;
+  
+}
 .App {
   text-align: center;
 }
